@@ -5,6 +5,7 @@
 # WisdomSync
 
 Welcome to WisdomSync, where education is not a privilege but a right for all. WisdomSync is a visionary mobile application at the forefront of reshaping education dynamics, empowering individuals, and bridge the gaps in access to quality learning. In a world where access to quality education is a driving force for positive change, WisdomSync stands as a testament to innovation, committed to advancing Quality Education and Reducing Inequality.
+
 ## About the App:
 
 WisdomSync is a dynamic ecosystem connecting educators and learners to inspire growth and unlock unlimited potential. WisdomSync, built on the Flutter framework, is not just an app but a gateway to free education. It offers a transformative educational experience, placing the power of learning in the hands of all. 
@@ -32,7 +33,7 @@ Step 4: run pub get command in the terminal.
 ```
 Step 5: In the lib folder find the main.dart file and run the app with emulator or real device.
 
-## Ekran Görüntüleri
+## Screenshots
 
 ![Uygulama Ekran Görüntüsü](https://github.com/tuvxba/wisdomsync-solution-challenge/assets/118054861/edcb7435-3421-4410-a822-e17850ccac96)
 
