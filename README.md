@@ -46,5 +46,4 @@ This  guide assumes that you already have Flutter installed on your computer if 
 ## Project is built by:
 
 - [@tuvxba](https://github.com/tuvxba) 
-<img src="(https://github.com/tuvxba/wisdomsync-solution-challenge/assets/118054861/f56499d9-79fd-48d4-9c08-30e276ebd17a)" width="200" height="200">
-
+<img src="https://github.com/tuvxba/wisdomsync-solution-challenge/assets/118054861/3aad652a-989f-42e0-a346-a2fc85eb9996" width="200" height="200">
