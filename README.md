@@ -20,18 +20,18 @@ Through the upload feature, individuals can share their expertise, earning token
 
 This  guide assumes that you already have Flutter installed on your computer if not install Flutter.
 
-Step 1: Open project on Github and then click Download ZIP.
+**Step 1:** Open project on Github and then click Download ZIP.
 
-Step 2: After downloading the file, extract it using Winrar.
+**Step 2:** After downloading the file, extract it using Winrar.
 
-Step 3: Open your code editor and open the file you extracted.
+**Step 3:** Open your code editor and open the file you extracted.
 
-Step 4: run pub get command in the terminal.
+**Step 4:** run pub get command in the terminal.
 
 ```bash 
   pub get
 ```
-Step 5: In the lib folder find the main.dart file and run the app with emulator or real device.
+**Step 5:** In the lib folder find the main.dart file and run the app with emulator or real device.
 
 ## Screenshots
 
@@ -46,5 +46,5 @@ Step 5: In the lib folder find the main.dart file and run the app with emulator 
 ## Project is built by:
 
 - [@tuvxba](https://github.com/tuvxba) 
+<img src="(https://github.com/tuvxba/wisdomsync-solution-challenge/assets/118054861/f56499d9-79fd-48d4-9c08-30e276ebd17a)" width="200" height="200">
 
-  
